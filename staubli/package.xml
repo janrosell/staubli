@@ -14,9 +14,6 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <exec_depend>staubli_resources</exec_depend>
-  <exec_depend>staubli_rx160_moveit_config</exec_depend>
-  <exec_depend>staubli_rx160_moveit_plugins</exec_depend>
-  <exec_depend>staubli_rx160_support</exec_depend>
 
   <export>
     <metapackage/>
